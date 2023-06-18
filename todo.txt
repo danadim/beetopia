@@ -1,0 +1,6 @@
+[] Implement Search 
+- Search by prompt
+- Search by Tag
+- Search by username
+[] Implement Click on Tag
+[] Implement View other profiles
