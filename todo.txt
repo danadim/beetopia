@@ -9,3 +9,4 @@
 http://localhost:3000
 http://localhost:3000
 7Z4k2AdlPwOrNrGvmqfyeBZUZ6qe/vNUjE6VpH5cXW8=
+https://beetopia-h2ewoilp5-danadim.vercel.app/
