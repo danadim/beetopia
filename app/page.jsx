@@ -8,7 +8,7 @@ const Home = () => (
       <span className='blue_gradient text-center'> Prompts</span>
     </h1>
     <p className='desc text-center'>
-      Beetopia is an open-source prompting tool for modern world to
+      Beetopia is a prompting tool for modern world to
       discover, create and share creative prompts.
     </p>
 
